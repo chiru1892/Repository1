@@ -5,5 +5,5 @@ public class SVN {
 		// TODO Auto-generated method stub
 
 	}
-
+	System.out.println("Welcome to SVN");
 }
