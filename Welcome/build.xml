@@ -14,7 +14,7 @@
         <jar destfile="build/jar/*.jar" basedir="build/classes">
             
 			<manifest>
-                <attribute name="Main-Class"/> 
+                <attribute name="Main-Class" value="SVN"/> 
 				<!--value="SVN" -->
             </manifest>
 			
